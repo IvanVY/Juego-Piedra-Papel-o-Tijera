@@ -2,6 +2,9 @@
 
 Una aplicación móvil desarrollada en **Android Studio** que permite jugar al clásico juego de **Piedra, Papel o Tijera** contra la computadora. Ideal para practicar desarrollo en Android y pasar un rato divertido.
 
+## APK
+[Aplicacion](https://drive.google.com/file/d/1b7nhoBE44989UHbOVJGdTFlr4tNAG-fd/view?usp=sharing)
+
 ## Características
 
 - **Interfaz intuitiva**: Botones claros y diseño sencillo.
