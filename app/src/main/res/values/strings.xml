@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Juego Piedra Papel o Tijera</string>
+    <string name="app_creador">Ivan Vera</string>
 </resources>

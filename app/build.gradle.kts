@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.juegopiedrapapelotijera"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.juegopiedrapapelotijera"
